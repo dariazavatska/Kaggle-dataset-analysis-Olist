@@ -18,4 +18,4 @@ This project explores customer behavior and retention using the Olist e-commerce
 - Retention is low, indicating mostly one-time purchase behavior
 
 ## Files
-- customer_analysis.sql — main analysis
+- 01_changes_over_time.sql — explores customer behavior and retention
