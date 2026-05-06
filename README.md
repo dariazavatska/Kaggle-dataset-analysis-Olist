@@ -6,7 +6,7 @@ Exploratory data analysis
 ## Overview
 This project explores customer behavior and retention using the Olist e-commerce dataset.
 
-## Stack
+## Done with
 - DBeaver
 - PostgreSQL
 
