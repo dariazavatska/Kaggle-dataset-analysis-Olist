@@ -1,6 +1,5 @@
 # Kaggle-dataset-analysis-Olist
-Exploratory data analysis 
-This project explores customer behavior and retention using the Olist e-commerce dataset.
+EDA. This project explores customer behavior and retention using the Olist e-commerce dataset.
 
 ## Done with
 - DBeaver
